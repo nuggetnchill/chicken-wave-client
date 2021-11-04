@@ -4,4 +4,6 @@
 
 Client side for [my 1st smart contract](https://github.com/nuggetnchill/chicken-wave)
 
-## Try it out on the Rinkeby Test Network [here](https://chicken-wave.netlify.app/)
+## Check it out and leave me a message [here](https://chicken-wave.netlify.app/)
+
+Available on Rinkeby and Harmony Testnet
