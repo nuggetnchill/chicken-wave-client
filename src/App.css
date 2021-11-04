@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Press+Start+2P&display=swap');
 
 html {
-  background-image: linear-gradient(to top, #ac53b8, #2470e2);
+  background: #28218b;
   font-family: 'DotGothic16', sans-serif;
 }
 
@@ -28,20 +28,20 @@ html {
   margin-bottom: 2rem;
 }
 
-.total-yeet{
-  color:rgb(101, 250, 181);
+.total-yeet {
+  color: rgb(101, 250, 181);
 }
 
-input{ 
+input {
   padding: 12px;
 }
 
-.connectBtn{
+.connectBtn {
   margin: 1rem 0;
   padding: 12px;
-  background-color:rgba(40, 224, 40, 0.685);
-  border:0;
-  border-radius:5px;  
+  background-color: rgba(40, 224, 40, 0.685);
+  border: 0;
+  border-radius: 5px;
   cursor: pointer;
 }
 
@@ -53,23 +53,22 @@ input{
   border-radius: 5px;
 }
 
-.yeet-container{
+.yeet-container {
   background-color: rgba(0, 0, 0, 0.5);
-  color:rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
   margin-top: 16px;
-  padding: 1rem; 
-  display:flex;
-  flex-direction:row;
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
   gap: 1rem;
 }
 
-.yeet-container a{
-  color:#ac53b8;
+.yeet-container a {
+  color: #ac53b8;
 }
 
-.account-avatar{
-  width:50px;
-  height:50px;
+.account-avatar {
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
 }
- 
